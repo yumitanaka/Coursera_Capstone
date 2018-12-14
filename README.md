@@ -1,3 +1,3 @@
-# Coursera_Capstone
-Capstone Project - IBM Data Science Professional Certificate</br>
+# Capstone Project - IBM Data Science Professional Certificate
+</br>
 <img src="Applied_Data_Science_Capstone.png" alt="Applied Data Science Capstone">
